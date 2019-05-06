@@ -1,2 +1,3 @@
 Name: Manolache Sebastian
 Email: sebastian.manolache@student.usv.ro
+Telefon: 07412345657

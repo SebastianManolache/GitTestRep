@@ -1,5 +1,2 @@
 First commit.
-Second commit!
-
-
-Last commit!
+This is the first git tutorial!
