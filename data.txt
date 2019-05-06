@@ -1,1 +1,2 @@
 Name: Manolache Sebastian
+Email: sebastian.manolache@assist.ro
