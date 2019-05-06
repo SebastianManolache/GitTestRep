@@ -1,4 +1,5 @@
 Name: Manolache Sebastian
 Email: sebastian.manolache@student.usv.ro
 Telefon: 07412345657
-Adresa: Suceava,Veresti
+Adresa: Suceava,Veresti nr 123 stada principala
+
